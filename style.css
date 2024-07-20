@@ -1,0 +1,10 @@
+head.nav {
+    color:black;
+    width: 1200px;
+    height: 60px;
+}
+
+nav ul li {
+    display: inline;
+    list-style-type: none;
+  }
